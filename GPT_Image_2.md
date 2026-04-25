@@ -75,4 +75,8 @@ cinematic lighting, telephoto lens, nature documentary style, dynamic motion, sy
 <img width="1035" height="688" alt="image" src="https://github.com/user-attachments/assets/dd97467c-9844-4c41-8cc1-1cbbefbf609a" />
 <img width="498" height="750" alt="image" src="https://github.com/user-attachments/assets/b9bb36c0-3fdc-44ca-b67e-dad0af79a9e7" />
 
+### 多网格照片
+用理光GR3相机拍摄的中国男女情侣互相拍照和自拍，光圈f4.2 35mm焦段，16 张照片中的 16 张网格分割、拍摄不佳、晃动难忘 感情丰富。
+
+<img width="1035" height="690" alt="image" src="https://github.com/user-attachments/assets/b0741f67-11a3-4992-a714-fec1e968b781" />
 
